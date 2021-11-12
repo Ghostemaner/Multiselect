@@ -1,0 +1,25 @@
+[{
+        "id": 1323,
+        "name": "Horror", 
+        "flags": ""
+    },
+    {
+        "id": 2314,
+        "name": "Fantasy", 
+        "flags": ""
+    },
+    {
+        "id": 5325,
+        "name": "Animation", 
+        "flags": ""
+    },
+    {
+        "id": 6623,
+        "name": "Drama", 
+        "flags": ""
+    },
+    {
+        "id": 1673,
+        "name": "Comedy", 
+        "flags": ""
+}]
